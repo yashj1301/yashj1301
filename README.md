@@ -19,15 +19,19 @@ I hold an MBA in Business Intelligence and Data Analytics and a background in co
 ## 💼 Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Spreadsheets](https://img.shields.io/badge/spreadsheets-darkgreen?style=for-the-badge&logo=googlesheets)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/AWS%20S3-%23569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-Pipeline-green?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/Data--Cleaning-Process-blue?style=for-the-badge)
-![Data Integration](https://img.shields.io/badge/Data--Integration-Linking-red?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas)
+![Selenium](https://img.shields.io/badge/selenium-lightgrey?style=for-the-badge&logo=selenium&logoColor=darkgreen)
+![AIOHTTP](https://img.shields.io/badge/aiohttp-black?style=for-the-badge&logo=aiohttp&logoColor=white)
+
+
 
 | 🔢 Machine Learning Skills                          | 📊 Business Intelligence Skills        | 🧠 Soft Skills            |
 |-----------------------------------------------------|----------------------------------------|---------------------------|
