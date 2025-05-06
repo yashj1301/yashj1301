@@ -7,48 +7,58 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-jain1301/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
 
 
+<p><p>Welcome to my GitHub profile. I'm a Business Intelligence and Data Analytics professional with strong interests in statistical modeling, cloud platforms, and dashboard development.
 
-### Glad to see you here!  
-I'm a project-Driven Data Analyst with hands-on experience in building end-to-end ETL pipelines, developing interactive dashboards, and applying statistical methods to solve real-world problems. Backed by an MBA in Business Intelligence & Data Analytics and a strong foundation in Python, SQL, Power BI, and cloud platforms like AWS and GCP.
+## 🧾 About Me
 
-Skilled in data scraping from websites, APIs and spreadsheets; transformation, and visualization, with a portfolio of projects demonstrating practical impact. Adept at deriving insights from structured and unstructured data to support business decision-making.  
-  
+I hold an MBA in Business Intelligence and Data Analytics and a background in commerce. I work on end-to-end data pipelines — scraping, transforming, and loading structured and semi-structured data into cloud storage systems for BI dashboards. My goal is to turn raw data into business-ready insights using modern tools like Python, SQL, Power BI, and cloud platforms like AWS and GCP.
 
-<br/>  
 
+## 💼 Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Pipeline-green?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data--Cleaning-Process-blue?style=for-the-badge)
+![Data Integration](https://img.shields.io/badge/Data--Integration-Linking-red?style=for-the-badge)
+
+| 🔢 Machine Learning Skills                          | 📊 Business Intelligence Skills        | 🧠 Soft Skills            |
+|-----------------------------------------------------|----------------------------------------|---------------------------|
+| Linear Regression                                   | Data Mining                            | Analytical Thinking       |
+| Logistic Regression                                 | Data Warehousing                       | Curiosity                 |
+| Naïve Bayes                                         | Data Visualization                     | Time Management           |
+| KNN (Classification & Regression – theory)          | Dashboard Development                  | Team Collaboration        |
+| Decision Trees (theory)                             | Business Reporting                     | Communication             |
+| K-Means Clustering (theory)                         | Data Storytelling                      |                           |
+| Market Basket Analysis (Apriori & FP-Growth – theory)| KPI Formulation and Analysis          |                           |
+
+
+## 🎯 Hobbies & Interests
+
+- 📚 Reading books on self-help & motivation  
+- 🔭 Scientific Research (Theoretical Cosmology)  
+- 🏹 Kyudo and Jiu-Jitsu  
+- 🎮 Video Gaming  
+
+## 📌 Quick Links
+
+- [📄 My ORCID Resume](https://orcid.org/0000-0002-0087-5945)
+- [💼 LinkedIn](https://www.linkedin.com/in/yash-jain1301/)
 
 ## Rapidfire  
 - 🔭 I’m currently working on [Cricketer Performance Analytics](https://github.com/yashj1301/cricketer-stats)  
   
-
 - 🌱 I’m currently learning Containerization, CI/CD and Orchestration for DataOps  
   
-
 - ❓ Ask me about anything related to Data Analytics, Business Intelligence, Data Mining.   
   
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-</div>  
-
-<br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -74,6 +84,3 @@ Skilled in data scraping from websites, APIs and spreadsheets; transformation, a
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
